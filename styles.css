@@ -1,0 +1,40 @@
+.searchbutton {
+    background-color: white;
+    border-radius: 40px;
+    border-color: #3AD5C6;
+    border-style: solid;
+    box-shadow: turquoise;
+    width: 120px;
+    color: #3AD5C6;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-top: 40px;
+    padding: 3px 0px 3px 0px;
+
+}
+
+.plusbutton {
+    background-color: turquoise;
+    box-shadow: turquoise;
+    border-style: solid;
+    border-color: turquoise;
+    border-radius: 50%;
+    width: 25px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+    margin-left: 40px;
+
+}
+
+.createbutton {
+    background-color: steelblue;
+    border-color: black;
+    border-style:ridge;
+    box-shadow: 1.5px 1.5px 0px black;
+    width: 160px;
+    color: white;
+    margin-left: 40px;
+    padding: 5px 0px 5px 0px;
+}
